@@ -1,13 +1,3 @@
-/**
- * @file map_saver.cpp
- * @author your name (you@domain.com)
- * @brief
- * @version 0.1
- * @date 2019-08-22
- *
- * @copyright Copyright (c) 2019
- *
- */
 
 #include <iostream>
 #include <fstream>
