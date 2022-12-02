@@ -1,6 +1,6 @@
 # robotcraft_maze
 
-This repository is a ROS package that can be used to solve the basic and pro maze which are part of the competition in the RobotCraft 2019 summer programme.
+This repository is a ROS package that can be used to solve the basic and pro maze which are part of the competition in the RobotCraft 2020 summer programme.
 
 #### Basic Maze
 With the help of three infrared sensors, the robot tries to find the exit of the maze. At the same time, it uses its LIDAR to map the maze. However, it is not allowed to use the LIDAR for distance measurements or localisation in this part of the competition.
