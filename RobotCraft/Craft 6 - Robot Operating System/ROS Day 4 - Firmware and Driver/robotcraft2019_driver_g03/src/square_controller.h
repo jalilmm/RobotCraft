@@ -1,15 +1,4 @@
-/**
- * @file robot_controller.h
- * @author Nicolas Filliol <nicolas.filliol@icloud.com>, Erwin Lejeune <erwin.lejeune15@gmail.com>, 
- *         Oleksandr Koreiba <alex@koreiba.com>, Jan Tiepelt <>, 
- *         Giovanni Alexander Bergamaschi <>
- * @brief Amazebot Controller Class
- * @version 0.2
- * @date 2019-08-11
- * 
- * @copyright Copyright (c) 2019
- * 
- */
+
 
 #ifndef AMAZEBOT_CONTROLLER_H
 #define AMAZEBOT_CONTROLLER_H
